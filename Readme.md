@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Анна Николаева](https://up.htmlacademy.ru/htmlcss/31/user/1731423).
-* Наставник: `Неизвестно`.
+* Наставник: [Борис Слонов](https://htmlacademy.ru/profile/slonov_boris).
 
 ---
 
